@@ -13,7 +13,8 @@ Welcome to my GitHub! I'm Mostafa, a passionate Data Scientist and Machine Learn
 ---
 
 ### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafa-arafa&show_icons=true&theme=tokyonight)
+![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafa-arafa&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Mostafa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-arafa&layout=compact&theme=radical)
 
 ---
 
