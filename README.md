@@ -1,37 +1,22 @@
-<h1 align="center">Hi 👋, I'm Mostafa Arafa</h1>
-<h3 align="center">Machine Learning Enthusiast | Data Scientist | Designer</h3>
+# Mostafa Arafa | Data Scientist & ML Enthusiast 👨‍💻
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mostafa-arafa&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-arafa" />
-</p>
+Welcome to my GitHub! I'm Mostafa, a passionate Data Scientist and Machine Learning Engineer with a strong interest in artificial intelligence and data-driven solutions. I focus on building impactful models and continuously improving my skills.
 
 ---
 
-### 💼 Projects I'm Proud Of:
-- 🎯 [Titanic ML Project](https://github.com/mostafa-arafa/titanic-ml-project)  
-  Classification project with ROC curves, model comparison & clean code.
-
-- 🧠 [Coming Soon] House Price Prediction with XGBoost  
-  Full pipeline with advanced feature engineering.
-
----
-
-### 🛠️ Tech Stack:
-- **Languages**: Python, SQL  
-- **ML/DS**: scikit-learn, pandas, seaborn, XGBoost  
-- **Tools**: Jupyter, Git, VSCode, Figma  
+### 🚀 Technologies & Tools:
+- **Languages**: Python, SQL
+- **Machine Learning**: scikit-learn, TensorFlow, XGBoost, pandas
+- **Data Analysis & Visualization**: NumPy, matplotlib, seaborn
+- **Tools**: Jupyter, Git, Docker, VSCode
 
 ---
 
 ### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-arafa&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-arafa&layout=compact&theme=tokyonight" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafa-arafa&show_icons=true&theme=tokyonight)
 
 ---
 
-### 📬 Connect With Me:
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Portfolio Website](https://your-portfolio.com)
+### 📱 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/mostafa-arafa-294b3a28a/)
+- [Behance](https://www.behance.net/mostafaahmed445)
