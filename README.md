@@ -18,6 +18,6 @@ Welcome to my GitHub! I'm Mostafa, a passionate Data Scientist and Machine Learn
 
 ---
 
-### 📱 Connect with Me:
+### 📱 Profiles:
 - [LinkedIn](https://www.linkedin.com/in/mostafa-arafa-294b3a28a/)
 - [Behance](https://www.behance.net/mostafaahmed445)
