@@ -1,77 +1,61 @@
+<h1 align="center">Hi there, I'm Mostafa Arafa 👋</h1>
 <p align="center">
-  <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+  <em>Data Scientist & Machine Learning Enthusiast 🚀</em>
 </p>
 
-<h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-
 <p align="center">
-</p>
-
-<p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mostafa-arafa" alt="Profile views">
+  <a href="https://www.linkedin.com/in/mostafa-arafa-294b3a28a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/mostafaahmed445">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white" />
+  </a>
   <a href="https://github.com/mostafa-arafa">
-    <img src="https://img.shields.io/github/followers/mostafa-arafa?label=Follow&style=social" alt="Github">
+    <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
-<div size="20px"> 
-  Hi! My name is Mostafa. Thank you for visiting my GitHub Profile 😊
+---
+
+### 👨‍💻 About Me
+
+- 🎯 I’m passionate about building data-driven solutions and real-world machine learning projects.
+- 📊 I focus on model development, evaluation, and visualization.
+- 🔍 Constantly learning and applying new tools in AI, DS, and software development.
+- 🎨 I enjoy blending design thinking into data storytelling.
+
+---
+
+### 🧠 Skills & Tools
+
+**Languages & Libraries**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-005C83?style=flat&logo=sqlite&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=flat&logo=python&logoColor=white)
+
+**Machine Learning & AI**  
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![XGBoost](https://img.shields.io/badge/XGBoost-A73534?style=flat&logo=xgboost&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+**Development & Tools**  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-arafa&show_icons=true&count_private=true&theme=radical" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-arafa&layout=compact&theme=radical" height="170px"/>
 </div>
 
 ---
 
-<h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100px"></h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+> 🛠️ *Always building, always learning.*
 
-<ul>
-  <li>🔭 I’m currently working on impactful data science and machine learning projects.</li>
-  <li>🌱 I’m currently learning advanced ML techniques and deployment tools.</li>
-  <li>👯 I’m looking to collaborate on open-source DS/ML projects.</li>
-  <li>💬 Ask me about Python, ML, data analysis, or AI.</li>
-  <li>⚡ Fun fact: I enjoy combining design with data to tell compelling stories.</li>
-</ul>
-
----
-
-<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h2>
-
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pandas.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/numpy.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jupyter.svg"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vscode.svg"></a>
-
----
-
-<h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
-
-<a href="https://www.linkedin.com/in/mostafa-arafa-294b3a28a/"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a>
-<a href="https://www.behance.net/mostafaahmed445"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/behance.svg"></a>
-<a href="https://github.com/mostafa-arafa"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
-
----
-
-### 📈 GitHub Stats:
-<table>
-  <thead>
-    <tr>
-      <th><img src="https://github-readme-stats.vercel.app/api?username=mostafa-arafa&show_icons=true&count_private=true&theme=tokyonight" alt="Mostafa's github stats"></th>
-      <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-arafa&theme=tokyonight" alt="Mostafa GitHub Streak"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-arafa&layout=compact&theme=tokyonight" alt="Top Langs"></td>
-      <td><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-<p>Credits: Template based on <a href="https://github.com/Aditya664">Aditya Deshmukh</a></p>
-<p>Last Edited on: 05/05/2025</p>
