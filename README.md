@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mostafa Arafa 👋</h1>
+<h1 align="center">Hi there, I'm Mostafa Arafa 🦇</h1>
 <p align="center">
   <em>Data Scientist & Machine Learning Enthusiast 🚀</em>
 </p>
@@ -10,7 +10,7 @@
   <a href="https://www.behance.net/mostafaahmed445">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white" />
   </a>
-  <a href="https://github.com/mostafa-arafa">
+  <a href="https://github.com/Arafa-53">
     <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
@@ -48,14 +48,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-arafa&show_icons=true&count_private=true&theme=radical" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-arafa&layout=compact&theme=radical" height="170px"/>
-</div>
-
----
 
 > 🛠️ *Always building, always learning.*
 
