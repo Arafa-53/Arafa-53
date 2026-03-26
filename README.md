@@ -1,53 +1,62 @@
-<h1 align="center">Hi there, I'm Mostafa Arafa 🦇</h1>
-<p align="center">
-  <em>Data Scientist & Machine Learning Enthusiast 🚀</em>
-</p>
+<!-- Header -->
+<div align="center">
+```
+╔══════════════════════════════════════════╗
+║  arafa-53@github:~ $ whoami                 ║
+╚══════════════════════════════════════════╝
+```
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mostafa-arafa-294b3a28a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.behance.net/mostafaahmed445">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white" />
-  </a>
-  <a href="https://github.com/Arafa-53">
-    <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
+# Mostafa Arafa
+**Data Scientist · ML Engineer · CS Graduate @ BFCAI**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](your-link)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white)](your-link)
+[![Instagram](https://img.shields.io/badge/@_arafa.jr_-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](your-link)
 
-### 👨‍💻 About Me
-
-- 🎯 I’m passionate about building data-driven solutions and real-world machine learning projects.
-- 📊 I focus on model development, evaluation, and visualization.
-- 🔍 Constantly learning and applying new tools in AI, DS, and software development.
-- 🎨 I enjoy blending design thinking into data storytelling.
+</div>
 
 ---
 
-### 🧠 Skills & Tools
-
-**Languages & Libraries**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-005C83?style=flat&logo=sqlite&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=flat&logo=python&logoColor=white)
-
-**Machine Learning & AI**  
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![XGBoost](https://img.shields.io/badge/XGBoost-A73534?style=flat&logo=xgboost&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-**Development & Tools**  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+## `$ cat about.txt`
+```python
+arafa = {
+    "location":  "Cairo, Egypt  ",
+    "focus":     ["Model Development", "Data Viz", "ML Pipelines"],
+    "learning":  "Deep Learning & NLP",
+    "fun_fact":  "I blend design thinking into every dataset I touch"
+}
+```
 
 ---
 
+## `$ ls skills/`
 
-> 🛠️ *Always building, always learning.*
+**Languages & Libraries**
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3d6cb9?style=flat)
+
+**Machine Learning & AI**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+
+---
+
+## `$ git log --oneline`
+```
+* feat:  currently learning deep learning & NLP
+* build: end-to-end ML pipelines & dashboards  
+* add:   design thinking → data storytelling
+* init:  CS degree @ BFCAI — Cairo, Egypt
+```
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arafa-53&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arafa-53&theme=tokyonight&hide_border=true" />
+</div>
