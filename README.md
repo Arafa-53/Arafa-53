@@ -10,17 +10,17 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arafa-53&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00ff88&icon_color=00ff88&text_color=c8ffc8&bg_color=050f05)
+<img src="https://github-readme-stats.vercel.app/api?username=Arafa-53&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00ff88&icon_color=00ff88&text_color=c8ffc8&bg_color=050f05&count_private=true" />
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arafa-53&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00ff88&text_color=c8ffc8&bg_color=050f05)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafa-53&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00ff88&text_color=c8ffc8&bg_color=050f05" />
 &nbsp;&nbsp;
-[![GitHub Streak](https://streak-stats.demolab.com?user=Arafa-53&theme=dark-smoky&hide_border=true&ring=00ff88&fire=00ffcc&currStreakLabel=00ff88&sideLabels=00ff88&dates=888888)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Arafa-53&theme=dark-smoky&hide_border=true&ring=00ff88&fire=00ffcc&currStreakLabel=00ff88&sideLabels=00ff88&dates=888888" />
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arafa-53&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Arafa-53&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6" />
 
 ---
 
