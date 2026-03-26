@@ -1,62 +1,62 @@
-<!-- Header -->
 <div align="center">
-```
-╔══════════════════════════════════════════╗
-║  arafa-53@github:~ $ whoami                 ║
-╚══════════════════════════════════════════╝
-```
 
-# Mostafa Arafa
-**Data Scientist · ML Engineer · CS Graduate @ BFCAI**
+<!-- Typing SVG Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FFE7&center=true&vCenter=true&width=600&lines=MOSTAFA+ARAFA;DATA+SCIENTIST+%2F%2F+ML+ENGINEER;CAIRO%2C+EG)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](your-link)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white)](your-link)
-[![Instagram](https://img.shields.io/badge/@_arafa.jr_-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](your-link)
+<sub>[ DATA SCIENTIST · ML ENGINEER · CS GRADUATE @ BFCAI ]</sub>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300ffe7?style=flat-square&logo=linkedin&logoColor=black)](your-link)
+[![Behance](https://img.shields.io/badge/Behance-%2300ffe7?style=flat-square&logo=behance&logoColor=black)](your-link)
+[![Instagram](https://img.shields.io/badge/@_arafa.jr_-%2300ffe7?style=flat-square&logo=instagram&logoColor=black)](your-link)
 
 </div>
 
 ---
-
-## `$ cat about.txt`
-```python
-arafa = {
-    "location":  "Cairo, Egypt  ",
-    "focus":     ["Model Development", "Data Viz", "ML Pipelines"],
-    "learning":  "Deep Learning & NLP",
-    "fun_fact":  "I blend design thinking into every dataset I touch"
-}
+```yaml
+identity:
+  name:     "Mostafa Arafa"
+  role:     "Data Scientist & ML Engineer"
+  location: "Cairo, Egypt"
+  status:   "Building data-driven solutions"
+  passion:  "Blending design thinking into data storytelling"
 ```
 
 ---
 
-## `$ ls skills/`
+### `[ SKILL MATRIX ]`
 
-**Languages & Libraries**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3d6cb9?style=flat)
-
-**Machine Learning & AI**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+| Skill | Level |
+|---|---|
+| Python | `█████████░` 95% |
+| Data Visualization | `████████░░` 88% |
+| Machine Learning | `████████░░` 85% |
+| SQL & Databases | `████████░░` 80% |
+| Deep Learning | `██████░░░░` 62% |
 
 ---
 
-## `$ git log --oneline`
-```
-* feat:  currently learning deep learning & NLP
-* build: end-to-end ML pipelines & dashboards  
-* add:   design thinking → data storytelling
-* init:  CS degree @ BFCAI — Cairo, Egypt
-```
+### `[ TECH STACK ]`
+
+![Python](https://img.shields.io/badge/Python-%2300ffe7?style=flat-square&logo=python&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%2300ffe7?style=flat-square&logo=postgresql&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-%2300ffe7?style=flat-square&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-%2300ffe7?style=flat-square&logo=numpy&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%2300ffe7?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%2300ffe7?style=flat-square&logo=scikit-learn&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%2300ffe7?style=flat-square&logo=tensorflow&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-%2300ffe7?style=flat-square&logo=jupyter&logoColor=black)
+
+---
+
+### `[ GITHUB METRICS ]`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arafa-53&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00ffe7&icon_color=00ffe7" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arafa-53&theme=chartreuse-dark&hide_border=true&ring=00ffe7&fire=00ffe7&currStreakLabel=00ffe7" height="150"/>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arafa-53&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arafa-53&theme=tokyonight&hide_border=true" />
+  <sub>— END OF FILE — ▮</sub>
 </div>
