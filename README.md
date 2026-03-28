@@ -59,9 +59,6 @@ mostafa = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Arafa-53&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=e6edf3&ring_color=39FF14" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafa-53&layout=compact&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=e6edf3&langs_count=6" />
 
 <br/><br/>
 
