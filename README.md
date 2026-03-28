@@ -29,15 +29,6 @@ mostafa = {
 
 ---
 
-## `$ ls ./about-me`
-
-- 🧠 Passionate about building **data-driven solutions** and real-world ML projects
-- 📊 Focused on **model development**, evaluation, and visualization
-- 🔭 Constantly learning and applying new tools in **AI, DS & software development**
-- 🎨 Enjoy blending **design thinking** into data storytelling
-- 📍 Based in **Cairo, Egypt**
-
----
 
 ## `$ cat skills.json`
 
