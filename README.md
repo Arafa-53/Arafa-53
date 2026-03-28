@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=200&section=header&text=Mostafa%20Arafa&fontSize=60&fontColor=0d1117&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=58&descFontColor=0d1117&descFontSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=200&section=header&text=Mostafa%20Arafa&fontSize=60&fontColor=0d1117&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist&descAlignY=58&descFontColor=0d1117&descFontSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=currently_building+%3D+%22data-driven+solutions%22;focus+%3D+%5B%22ML%22%2C+%22AI%22%2C+%22Data+Viz%22%5D;always_learning+%3D+True;design_meets_data+%3D+True)](https://git.io/typing-svg)
 
@@ -19,10 +19,9 @@
 mostafa = {
     "name"      : "Mostafa Arafa",
     "location"  : "Cairo, Egypt",
-    "role"      : "Data Scientist & ML Engineer",
-    "education" : "Computer Science @ BFCAI",
-    "passion"   : ["ML pipelines", "Data storytelling", "Design thinking"],
-    "status"    : "Open to opportunities"
+    "role"      : "Data Analyst & Data Scientist",
+    "education" : "Computer Science & Artificial Intelligence @ BFCAI",
+    "passion"   : ["Data Analysis", "Data Science", "Design thinking"],
 }
 ```
 
