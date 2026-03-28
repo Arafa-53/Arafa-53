@@ -1,87 +1,74 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=55&pause=1000&color=00FF88&center=true&vCenter=true&width=700&height=90&lines=MOSTAFA+ARAFA;DATA+SCIENTIST;ML+ENGINEER)](https://git.io/typing-svg)
-
-`DATA SCIENTIST` &nbsp;·&nbsp; `ML ENGINEER` &nbsp;·&nbsp; `CAIRO, EG` &nbsp;·&nbsp; `CS GRAD @ BFCAI`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-060d06?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Behance](https://img.shields.io/badge/Behance-060d06?style=for-the-badge&logo=behance&logoColor=00ff88)](https://behance.net/YOUR-BEHANCE)
-[![Instagram](https://img.shields.io/badge/@__arafa.jr__-060d06?style=for-the-badge&logo=instagram&logoColor=00ff88)](https://instagram.com/_arafa.jr_)
-
+<!-- ANIMATED HEADER using capsule-render -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=200&section=header&text=Mostafa%20Arafa&fontSize=60&fontColor=0d1117&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=58&descFontColor=0d1117&descFontSize=18)
+<!-- TYPING ANIMATION -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=currently_building+%3D+%22data-driven+solutions%22;focus+%3D+%5B%22ML%22%2C+%22AI%22%2C+%22Data+Viz%22%5D;always_learning+%3D+True;design_meets_data+%3D+%E2%9C%94)
+<!-- SOCIAL BADGES -->
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39FF14)
+![Instagram](https://img.shields.io/badge/@_arafa.jr_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 </div>
-
 ---
-
-> Passionate about building data-driven solutions and real-world ML projects.
-> I blend design thinking into data storytelling and focus on model development, evaluation & visualization.
-
----
-
-### ` GITHUB STATS `
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arafa-53&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00ff88&icon_color=00ff88&text_color=c8ffc8&bg_color=060d06&count_private=true&include_all_commits=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Arafa-53&theme=dark-smoky&hide_border=true&ring=00ff88&fire=00ffcc&currStreakLabel=00ff88&sideLabels=00ff88&dates=557755&background=060d06)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### ` TOP LANGUAGES `
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arafa-53&layout=donut&theme=chartreuse-dark&hide_border=true&title_color=00ff88&text_color=c8ffc8&bg_color=060d06)
-
-</div>
-
----
-
-### ` TROPHY CASE `
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Arafa-53&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### ` SKILL MATRIX `
-
+`$ whoami`
+```python
+mostafa = {
+    "name"      : "Mostafa Arafa",
+    "location"  : "Cairo, Egypt",
+    "role"      : "Data Scientist & ML Engineer",
+    "education" : "Computer Science @ BFCAI",
+    "passion"   : ["ML pipelines", "Data storytelling", "Design thinking"],
+    "status"    : "Open to opportunities"
+}
 ```
-Python         ████████████████████░░   92%
-Data Viz       ██████████████████░░░░   85%
-Machine Learn  █████████████████░░░░░   80%
-SQL            ████████████████░░░░░░   75%
-Deep Learning  ████████████░░░░░░░░░░   55%
-```
-
 ---
-
-### ` TECH STACK `
-
+`$ ls ./about-me`
+🧠  Passionate about building data-driven solutions and real-world ML projects
+📊  Focused on model development, evaluation, and visualization
+🔭  Constantly learning and applying new tools in AI, DS & software development
+🎨  Enjoy blending design thinking into data storytelling
+📍  Based in Cairo, Egypt
+---
+`$ cat skills.json`
+🐍 Languages & Libraries
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-e38c00?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=4DABCF)
+![Seaborn](https://img.shields.io/badge/Seaborn-76b9ed?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+🤖 Machine Learning & AI
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+🛠️ Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+---
+`$ git log --stats`
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-060d06?style=for-the-badge&logo=python&logoColor=00ff88)
-![SQL](https://img.shields.io/badge/SQL-060d06?style=for-the-badge&logo=postgresql&logoColor=00ff88)
-![Pandas](https://img.shields.io/badge/Pandas-060d06?style=for-the-badge&logo=pandas&logoColor=00ff88)
-![NumPy](https://img.shields.io/badge/NumPy-060d06?style=for-the-badge&logo=numpy&logoColor=00ff88)
-![Seaborn](https://img.shields.io/badge/Seaborn-060d06?style=for-the-badge&logoColor=00ff88)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-060d06?style=for-the-badge&logoColor=00ff88)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-060d06?style=for-the-badge&logo=scikit-learn&logoColor=00ff88)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-060d06?style=for-the-badge&logo=tensorflow&logoColor=00ff88)
-![Jupyter](https://img.shields.io/badge/Jupyter-060d06?style=for-the-badge&logo=jupyter&logoColor=00ff88)
-![Git](https://img.shields.io/badge/Git-060d06?style=for-the-badge&logo=git&logoColor=00ff88)
-
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Arafa-53&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=e6edf3&ring_color=39FF14" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafa-53&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=e6edf3&langs_count=6" />
+<br/><br/>
+<img src="https://streak-stats.demolab.com?user=Arafa-53&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=e6edf3&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafa-53&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true" />
 </div>
-
 ---
-
+`$ ls ./projects`
+> 🚧 More coming soon — stay tuned!
+Project	Description	Stack
+🔬 Coming Soon	ML pipeline project	Python · scikit-learn
+📊 Coming Soon	Data visualization dashboard	Pandas · Seaborn
+🤖 Coming Soon	Deep learning experiment	PyTorch
+---
+`$ echo $QUOTE`
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Arafa-53&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
-
+> *"Build things. Break things. Learn everything."*
+<br/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer)
 </div>
