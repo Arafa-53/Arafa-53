@@ -86,18 +86,6 @@ mostafa = {
 
 ---
 
-## `$ ls ./projects`
-
-> 🚧 More coming soon — stay tuned!
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🔬 Coming Soon | ML pipeline project | Python · scikit-learn |
-| 📊 Coming Soon | Data visualization dashboard | Pandas · Seaborn |
-| 🤖 Coming Soon | Deep learning experiment | PyTorch |
-
----
-
 ## `$ echo $QUOTE`
 
 <div align="center">
